@@ -7,7 +7,7 @@
 <img align=left height="200em" width="350em" src="https://github-readme-stats.vercel.app/api?username=fekete1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align=right height="200em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fekete1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <hr>
  <div>
   <h3>Linguagens e Tecnologias</h1>
