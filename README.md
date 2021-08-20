@@ -4,8 +4,8 @@
 <hr>
  <div>
    <a href="https://github.com/fekete1">
-<img align=left height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=fekete1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align=right height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fekete1&layout=compact&langs_count=7&theme=tokyonight"/>
+<img align=left height="200em" width="350em" src="https://github-readme-stats.vercel.app/api?username=fekete1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align=right height="200em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fekete1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br><br><br><br><br><br><br><br>
 <hr>
@@ -18,6 +18,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="30" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/d_UnityLogo.png">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  </p>
 </div>
 <hr>
